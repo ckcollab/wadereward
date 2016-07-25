@@ -7,11 +7,6 @@ app = Flask(__name__)
 WADE_REWARDS = (
     "A tooth whitening. You choose the tooth.",
     "5 CARTONS OF CIGARETTES!!!\n...that have been submerged in a lake",
-    "A core sample of someone's rectum. complete with display case.",
-    "Free tickets to comic con, but you have to be a 32 year old brony's chaperone, and he calls all the shots.",
-    "A really hot date. She won't call back.",
-    "The complete works of Jimmy Buffet on burnt CD!",
-    "Post it notes made from tanned hide. No adhesive. Just a lot of tiny squares of leather.",
     "A lifetime supply of sippy-cups filled with apple juice. Never go thirsty again.",
     "A kick in the nuts so hard, you'll never have kids. Cheaper than a vasectomy!",
     "A whole colony of bees on leashes. Take them on a walk, or tie them to a post!",
