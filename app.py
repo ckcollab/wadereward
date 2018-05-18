@@ -5,6 +5,7 @@ app = Flask(__name__)
 
 
 WADE_REWARDS = (
+    "Jackyl Donson the wolf guy",
     "A tooth whitening. You choose the tooth.",
     "5 CARTONS OF CIGARETTES!!!\n...that have been submerged in a lake",
     "A lifetime supply of sippy-cups filled with apple juice. Never go thirsty again.",
